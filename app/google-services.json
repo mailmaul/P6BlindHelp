@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415442876387",
+    "project_id": "testapp-314005",
+    "storage_bucket": "testapp-314005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415442876387:android:d89d4fbcac88c1a57352d6",
+        "android_client_info": {
+          "package_name": "para6tamol.blind.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415442876387-rkg4c2nbd5fvpa403gj01mqk811knnjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDXvouE3-w_laPH1W7payEODh2FGB2Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415442876387-rkg4c2nbd5fvpa403gj01mqk811knnjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
