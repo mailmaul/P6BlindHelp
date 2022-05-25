@@ -15,7 +15,7 @@ according to the image, audio massage is outputted
 
 ## DEMO PROJECT
 https://www.youtube.com/watch?v=I1zuvyIyf9k
-[![Watch the video](https://img.youtube.com/vi/watch?v=I1zuvyIyf9k/default.jpg)](https://youtu.be/watch?v=I1zuvyIyf9k)
+[![Watch the video](https://img.youtube.com/vi/I1zuvyIyf9k/default.jpg)](https://youtu.be/I1zuvyIyf9k)
 
 ## Para6tamol Team - B21-CAP0094
 a0070649@bangkit.academy
@@ -24,3 +24,4 @@ m0070664@bangkit.academy
 m0070669@bangkit.academy
 c0070653@bangkit.academy
 c0070655@bangkit.academy
+
