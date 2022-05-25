@@ -14,7 +14,6 @@ according to the image, audio massage is outputted
 3. After that image inputted to Inception model. Lastly, according to result audio message is otputted.  
 
 ## DEMO PROJECT
-https://www.youtube.com/watch?v=I1zuvyIyf9k
 [![Watch the video](https://img.youtube.com/vi/I1zuvyIyf9k/default.jpg)](https://youtu.be/I1zuvyIyf9k)
 
 ## Para6tamol Team - B21-CAP0094
