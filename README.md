@@ -13,6 +13,9 @@ according to the image, audio massage is outputted
 2. Then the center is cropped as square and resolution changed to 299x299 pixels. 
 3. After that image inputted to Inception model. Lastly, according to result audio message is otputted.  
 
+## DEMO PROJECT
+https://www.youtube.com/watch?v=I1zuvyIyf9k
+
 ## Para6tamol Team - B21-CAP0094
 a0070649@bangkit.academy
 a1011402@bangkit.academy
